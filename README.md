@@ -1,12 +1,19 @@
 # Sensors:
 ## Light Sensor:
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0a5c9df6-1002-4f93-871c-db22667d5e63" />
+
 ## GPS Sensor:
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8e31dca2-6bfc-4eff-aa3b-d7cbaaaafc8e" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f09d19b7-120c-4362-b487-e5a9b6ea052f" />
+
 ## Monitor:
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e650271c-e16e-40b1-a6e5-6e6333b749a5" />
+
 # Application:
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/05f45490-4664-4e30-82de-ac34a9da4ddb" />
 
 
