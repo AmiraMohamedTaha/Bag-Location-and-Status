@@ -18,19 +18,26 @@
 
 
 # Pages:
+
 ## NavBar:
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ab9bd87b-5213-4b00-9211-4defe88c4ecb" />
+
 ## Login Page:
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7a8d34af-3cae-4ea3-87fb-7457e1bbf70d" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b611978a-9faf-435a-a828-c43a3253427b" />
 
 ## Customer Service Agent:
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0d2d695e-fdc3-4885-b834-78a1420e3167" />
 
 ## Last Status:
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/38835efb-a78a-46a5-b932-8e3603ecf4d8" />
 
 ## Historical Status:
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f7032546-dc9e-4436-b22c-1475c27f119f" />
 
 
