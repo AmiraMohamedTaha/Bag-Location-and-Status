@@ -40,4 +40,6 @@
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f7032546-dc9e-4436-b22c-1475c27f119f" />
 
+# Video for running the project:
 
+https://drive.google.com/file/d/1ZHok2pKq_QVuYYcjQD33FqSlOzfwEkuF/view?usp=sharing
