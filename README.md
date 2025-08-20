@@ -43,3 +43,11 @@
 # Video for running the project:
 
 https://drive.google.com/file/d/1ZHok2pKq_QVuYYcjQD33FqSlOzfwEkuF/view?usp=sharing
+
+# Emails Received:
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9534c811-c04d-4d60-9b3d-86a632def70f" />
+
+# How to Set Up Gmail SMTP server:
+
+https://www.youtube.com/watch?v=ZfEK3WP73eY
